@@ -269,6 +269,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Autonomous agents
 
+- [VisionQuantech AI Agents](https://visionquantech.com/agents) - Done-for-you AI voice agents, chatbots and workflow automation for small businesses.
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
